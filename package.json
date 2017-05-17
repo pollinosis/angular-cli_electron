@@ -2,6 +2,7 @@
   "name": "hinata",
   "version": "0.0.0",
   "license": "MIT",
+  "main": "main.js",
   "angular-cli": {},
   "scripts": {
     "ng": "ng",
@@ -31,6 +32,7 @@
     "@types/node": "^6.0.42",
     "angular-cli": "1.0.0-beta.28.3",
     "codelyzer": "~2.0.0-beta.1",
+    "electron": "^1.6.8",
     "jasmine-core": "2.5.2",
     "jasmine-spec-reporter": "2.5.0",
     "karma": "1.2.0",
